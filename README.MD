@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marouane Chahboune Work : Images 1 to 31</title>
-</head>
-<body>
 
 <h1>Images 1 to 31</h1>
 <h2>Images 1 to 10</h2>
-<div class="image-container">
+
 
     <img src="customer-service/screenshots/1.png" alt="Image 1"><br>
     Image 1<br><br>
@@ -40,10 +32,10 @@
 
     <img src="customer-service/screenshots/10.png" alt="Image 10"><br>
     Image 10<br><br>
-</div>
+
 <h2>Images 11 to 20</h2>
 
-<div class="image-container">
+
     <img src="customer-service/screenshots/11.png" alt="Image 11"><br>
     Image 11<br><br>
 
@@ -73,10 +65,10 @@
 
     <img src="customer-service/screenshots/20.png" alt="Image 20"><br>
     Image 20<br><br>
-</div>
+
 <h2>Images 21 to 31</h2>
 
-<div class="image-container">
+
     <img src="customer-service/screenshots/21.png" alt="Image 21"><br>
     Image 21<br><br>
 
@@ -109,6 +101,4 @@
 
     <img src="customer-service/screenshots/31.png" alt="Image 31"><br>
     Image 31<br><br>
-</div>
-</body>
-</html>
+
